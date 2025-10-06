@@ -1,4 +1,4 @@
-package com.example.extratime.utils
+package com.example.extratime.core.utils
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.Observer
